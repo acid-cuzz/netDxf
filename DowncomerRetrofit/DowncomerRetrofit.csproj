@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <Description>Generates the DWG-DCINS-01..03 downcomer retrofit insert drawings as DXF files with netDxf.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\netDxf\netDxf.csproj" />
+  </ItemGroup>
+
+</Project>

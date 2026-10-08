@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{6B14C525-B
 		LICENSE = LICENSE
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DowncomerRetrofit", "DowncomerRetrofit\DowncomerRetrofit.csproj", "{443A97A0-6169-4E78-BECC-F0DD37735A15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{08846347-EACA-4903-B935-264A0A46A856}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08846347-EACA-4903-B935-264A0A46A856}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08846347-EACA-4903-B935-264A0A46A856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443A97A0-6169-4E78-BECC-F0DD37735A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443A97A0-6169-4E78-BECC-F0DD37735A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443A97A0-6169-4E78-BECC-F0DD37735A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443A97A0-6169-4E78-BECC-F0DD37735A15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
